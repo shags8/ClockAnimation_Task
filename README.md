@@ -4,7 +4,7 @@ This project demonstrates an animated clock with dynamic hour and minute hands, 
 
 ## APK Download
 
-Download the latest APK [here]().
+Download the latest APK [here](https://github.com/shags8/ClockAnimation_Task/tree/master/APK).
 
 ## Screenshots
 
